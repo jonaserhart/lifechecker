@@ -34,8 +34,6 @@ httpsServer.listen(config.httpsPort, () => {
 	console.log('https server is listening on port', config.httpsPort)
 });
 
-console.log(person("a","b")
-
 var router = {
 	'ping' : handlers.ping,
 	'users' : handlers.users,
