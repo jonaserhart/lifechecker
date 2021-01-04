@@ -1,0 +1,4 @@
+## data
+.data/*
+https/key.pem
+https/cert.pem
