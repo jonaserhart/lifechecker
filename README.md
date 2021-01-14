@@ -1,4 +1,4 @@
-# Node Lifechecker
+# Node Lifechecker (currently in development)
 
 ## Description 
 
